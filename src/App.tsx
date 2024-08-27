@@ -51,7 +51,7 @@ export default function App() {
         <div>
           <input type="file" id="secondFileInput" onChange={uploadFile} />
         </div>
-        {firstFileArray.length > 0 && secondFileArray.length > 0 && (
+        {firstFile && secondFile && (
           <CompareTranslations translations={differentTranslations} />
         )}
       </div>
