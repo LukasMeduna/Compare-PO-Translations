@@ -1,5 +1,5 @@
-# Compare-POE-Translations
+# Compare-PO-Translations
 
-This app compares two POE translations files and displays all translations that are different (or missing in one of the files).
+This app compares two PO translations files and displays all translations that are different (or missing in one of the files).
 
-You can visit the app here: https://lukasmeduna.github.io/Compare-POE-Translations/
+You can visit the app here: https://lukasmeduna.github.io/Compare-PO-Translations/
