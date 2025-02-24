@@ -43,7 +43,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>Compare POE Translations</h1>
+      <h1>Compare PO Translations</h1>
       <div className="compare-table">
         <div>
           <input type="file" id="firstFileInput" onChange={uploadFile} />
